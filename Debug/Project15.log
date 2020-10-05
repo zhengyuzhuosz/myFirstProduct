@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\Administrator.DESKTOP-46ELJ4U\source\repos\Project15\Project15\源.cpp(14,9): warning C4473: “snprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator.DESKTOP-46ELJ4U\source\repos\Project15\Project15\源.cpp(14,9): message : 占位符和其参数预计 4 可变参数，但提供的却是 2 参数
+C:\Users\Administrator.DESKTOP-46ELJ4U\source\repos\Project15\Project15\源.cpp(14,9): message : 缺失的可变参数 3 为格式字符串“%s”所需
+  Project15.vcxproj -> C:\Users\Administrator.DESKTOP-46ELJ4U\source\repos\Project15\Debug\Project15.exe
